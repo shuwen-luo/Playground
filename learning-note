@@ -1,0 +1,4 @@
+The purpose of the practice is to master what I learned in "Introduction to GitHub".
+A branch is a separate line of development from main. A contributor can modify or upload code or files on the branch without changing main.
+A commit is an action that records changes to code or files.
+A pull request is a request to merge changes from a branch into main.
